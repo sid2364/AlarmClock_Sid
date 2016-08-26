@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alarm_sound.wav",
+        "source": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\app\\src\\main\\res\\raw\\alarm_sound.wav"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\Sid's Alarm Clock\\build\\intermediates\\res\\merged\\debug\\raw\\alarm_sound.wav",
+        "source": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\Sid's Alarm Clock\\src\\main\\res\\raw\\alarm_sound.wav"
+    }
+]

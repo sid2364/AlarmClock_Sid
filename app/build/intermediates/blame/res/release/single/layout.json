@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_home_page.xml",
+        "source": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_alarm_ring.xml",
+        "source": "C:\\Users\\USER\\Downloads\\AlarmClock_Sid\\app\\src\\main\\res\\layout\\activity_alarm_ring.xml"
+    }
+]

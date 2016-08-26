@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\old_sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\USER\Downloads\AlarmClock_Sid\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_e3a0c431a17e05dc3a4e102f8f77fb41be5846c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\AlarmClock_Sid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\USER\Downloads\AlarmClock_Sid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_1e17a29661d85fc9cc2ac4d30c0b9f470084e024.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\AlarmClock_Sid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\USER\Downloads\AlarmClock_Sid\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_9b0981c5a1a196dd00325ad562687a62e6b5df9e.jar" />
+    </item>
+
+</items>
